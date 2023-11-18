@@ -11,4 +11,3 @@
 - 📫 How to reach me: mymail@gmail.com
 - 😄 Pronouns: fr?
 - ⚡ Fun fact: A snail can sleep for 3 years.
--->
