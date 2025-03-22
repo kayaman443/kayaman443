@@ -3,12 +3,11 @@
 **kayaman443** is a ✨ _special_ ✨ repository because it includes information about my profile. 
 
 
-- 🔭 I’m currently working on Bana Team
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about anything
-- 📫 How to reach me: mfilip.duda420@gmail.com
+- 📫 How to reach me: filip.duda420@gmail.com
 - 😄 Pronouns: fr?
 - ⚡ Fun fact: A snail can sleep for 3 years.
 
